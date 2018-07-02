@@ -9,9 +9,13 @@
 inter(x,y,col,idx,rng)
 
 x:新的需要插值的 x（注意 是水平方向）
+
 y:新的需要插值的 y （注意是竖直方向）
+
 col：横向坐标range
+
 idx：纵向坐标range
+
 rng：数据range
 
 
